@@ -47,6 +47,6 @@ function clearInputs() {
 function deletebook(index) {
     
    
-    books.splice(index, 1); // Remove old entry
-    showbooks(); // Refresh list
+    books.splice(index, 1); 
+    showbooks(); 
   }
