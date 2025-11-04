@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "title": "Global Markets Surge as Tech Stocks Lead Gains",
+      "description": "Stock markets worldwide rallied today as major tech firms reported stronger-than-expected earnings for the third quarter.",
+      "author": "Jane Roberts",
+      "date": "2025-11-04",
+      "category": "Business",
+      "content": "Investors showed renewed confidence in the tech sector, pushing the NASDAQ up by 3%. Analysts attribute the growth to rising demand for AI-driven software and cloud services. Meanwhile, European and Asian markets followed suit, showing steady growth throughout the day."
+    },
+    {
+      "title": "NASA Confirms New Moon Mission Set for 2026",
+      "description": "NASA announced the official timeline for its Artemis III mission, aiming to return astronauts to the lunar surface by 2026.",
+      "author": "Michael Chan",
+      "date": "2025-11-03",
+      "category": "Science",
+      "content": "The Artemis III mission will focus on establishing a sustainable human presence on the Moon, paving the way for future Mars exploration. The spacecraft will carry four astronauts, including the first woman and person of color to land on the lunar surface."
+    },
+    {
+      "title": "Global Climate Agreement Reached at COP30",
+      "description": "World leaders have agreed on new climate policies to limit global warming to 1.5°C by 2040.",
+      "author": "Sarah Ahmed",
+      "date": "2025-11-02",
+      "category": "Environment",
+      "content": "The agreement includes commitments to reduce carbon emissions, increase renewable energy investments, and provide financial aid to developing nations most affected by climate change."
+    },
+    {
+      "title": "AI Revolutionizes Healthcare Diagnostics",
+      "description": "A new AI model developed by researchers in Japan can detect over 300 diseases from a single medical scan.",
+      "author": "Dr. Kevin Lee",
+      "date": "2025-11-01",
+      "category": "Technology",
+      "content": "The model has achieved a 96% accuracy rate in clinical trials, significantly outperforming traditional diagnostic tools. Experts believe this could transform global healthcare accessibility and efficiency."
+    },
+    {
+      "title": "Historic Win for Underdogs in World Cup Final",
+      "description": "In one of the most thrilling finals in World Cup history, the underdog team secured victory in a last-minute penalty shootout.",
+      "author": "Daniel Smith",
+      "date": "2025-10-31",
+      "category": "Sports",
+      "content": "Fans around the world celebrated as the underdog nation lifted the trophy for the first time in its history. The victory has been hailed as a defining moment in the sport’s history."
+    }
+  ]
+}
